@@ -1,2 +1,1 @@
-# portugol-algoritmos
-meus primeiros passos no mundo da programação (nov/2020)
+meus primeiros exercícios de lógica desenvolvidos através do curso de algoritmos e lógica de programação, criado pelo professor Nelio Alves.
